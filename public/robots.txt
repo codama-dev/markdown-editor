@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-markdown-editor.codama.dev/sitemap.xml
